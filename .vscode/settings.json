@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "8puzzlebfs_heuristic": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
     }
 }
